@@ -1,0 +1,145 @@
+*{
+    margin: 0;
+}
+#ltop{
+    float: left;
+}
+#rtop{
+    float: right;
+}
+
+header{
+    color: white;
+    background-color: black;
+    height: 80px;
+}
+header h1{
+    text-align: center;
+}
+header ul{
+    list-style-type: none;
+    text-align: right;
+}
+header ul li{
+    display: inline;
+    padding: 20px;
+    color: white;
+    
+}
+header ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 10PX;
+}
+header li a:hover{
+    color: white;
+    background-color: red;
+}
+
+footer {
+    clear: left;
+    overflow: hidden;
+    background-color: black;
+    color: white;
+    
+}
+
+footer .fot1 p{
+   font-family: 'Great Vibes', cursive;
+    font-size: 24px;
+    font-style: italic;
+}
+footer .fot1{
+    float: left;
+    width: 25%;
+    font-family: "Georgia", "Times New Roman", serif; 
+}
+footer .fot2{
+    float: left;
+    width: 25%;
+}
+footer .fot3{
+    float: left;
+    width: 25%;
+}
+footer .fot4{
+    float: left;
+    width: 25%;
+}
+footer .fot1 p{
+    text-align: center;
+    
+    font-family: "Georgia", "Times New Roman", serif; 
+    font-size: 1rem;
+}
+#img6{
+    border: 3px solid red;
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+    margin-top: 20px;
+    margin-left: 80px;
+}
+ footer .fot2 ul{
+    list-style-type: none;
+}
+footer .fot2 ul li{
+    padding: 10px;
+    margin-left: 100px;
+    
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+#iconss{
+    height: 25px;
+    width: 25px;
+    border-radius: 100px;
+    float: left;
+    margin-right: 20px;
+     
+
+}
+footer .fot3 a{
+    display: block;
+    text-align: left;
+  
+}
+ .last{
+    color: white;
+    background-color: gray;
+    text-align: center;
+  
+    
+}
+
+.bdy{
+    height: 16cm;
+    background-color: gray;
+    padding: 2cm;
+    
+}
+.lin{
+    border-bottom: 3px solid white;
+    width: 20%;
+   
+}
+.d1{
+    float: left;
+    width: 30%;
+    height: 15cm;
+    background-color: white;   
+    margin: 10px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 4px;
+    
+}   
+
+#img{
+    width: 4cm;
+    height: 4cm;
+    border-radius: 100px;
+}
