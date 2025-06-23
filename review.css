@@ -44,15 +44,10 @@ footer {
     
 }
 
-footer .fot1 p{
-   font-family: 'Great Vibes', cursive;
-    font-size: 24px;
-    font-style: italic;
-}
 footer .fot1{
     float: left;
     width: 25%;
-    font-family: "Georgia", "Times New Roman", serif; 
+    
 }
 footer .fot2{
     float: left;
@@ -68,17 +63,17 @@ footer .fot4{
 }
 footer .fot1 p{
     text-align: center;
+    font-family: 'Brush Script MT', cursive;
+    font-size: 24px;
+}   
     
-    font-family: "Georgia", "Times New Roman", serif; 
-    font-size: 1rem;
-}
 #img6{
     border: 3px solid red;
     border-radius: 100px;
     height: 150px;
     width: 150px;
-    margin-top: 20px;
-    margin-left: 80px;
+    margin-top: 30px;
+    margin-left: 100px;
 }
  footer .fot2 ul{
     list-style-type: none;
@@ -130,7 +125,8 @@ footer .fot3 a{
     float: left;
     width: 30%;
     height: 15cm;
-    background-color: white;   
+    background-color: white;
+      
     margin: 10px;
     text-align: center;
     padding: 10px;
@@ -142,4 +138,8 @@ footer .fot3 a{
     width: 4cm;
     height: 4cm;
     border-radius: 100px;
+}
+
+.d1 p{
+    font-family: 'Dancing Script', cursive;
 }
